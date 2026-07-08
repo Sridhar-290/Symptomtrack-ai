@@ -81,6 +81,10 @@ pip install faiss-cpu
 - Text symptoms input: Users enter symptoms and receive a best-match disease suggestion.
 - Image upload: Users upload a medical image and receive a predicted disease label plus confidence.
 
+
+  <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/e5024506-7a42-4378-8655-6d6fa1917530" />
+
+
 ## Additional Information
 
 - The app saves uploaded images to `static/uploads`.
